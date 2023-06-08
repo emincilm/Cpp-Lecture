@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\emin\source\repos\Cpp\02-TestEgitim\main.cpp(11,17): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\emin\source\repos\Cpp\02-TestEgitim\main.cpp(55,10): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\emin\source\repos\Cpp\02-TestEgitim\main.cpp(57,12): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\emin\source\repos\Cpp\02-TestEgitim\main.cpp(59,11): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\emin\source\repos\Cpp\02-TestEgitim\main.cpp(61,12): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  02-TestEgitim.vcxproj -> C:\Users\emin\source\repos\Cpp\02-TestEgitim\x64\Debug\02-TestEgitim.exe
