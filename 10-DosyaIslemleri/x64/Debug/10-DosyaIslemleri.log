@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\emin\source\repos\Cpp\10-DosyaIslemleri\main.cpp(32,12): warning C4129: 'e': tanınmayan karakter kaçış sırası
+C:\Users\emin\source\repos\Cpp\10-DosyaIslemleri\main.cpp(32,12): warning C4129: 's': tanınmayan karakter kaçış sırası
+C:\Users\emin\source\repos\Cpp\10-DosyaIslemleri\main.cpp(32,12): warning C4129: 'C': tanınmayan karakter kaçış sırası
+  10-DosyaIslemleri.vcxproj -> C:\Users\emin\source\repos\Cpp\10-DosyaIslemleri\x64\Debug\10-DosyaIslemleri.exe
