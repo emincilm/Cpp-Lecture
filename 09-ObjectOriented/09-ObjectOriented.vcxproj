@@ -127,10 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Hayvan.cpp" />
+    <ClCompile Include="Kedi.cpp" />
+    <ClCompile Include="Kopek.cpp" />
+    <ClCompile Include="Kus.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Otomobil.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Hayvan.h" />
+    <ClInclude Include="Kedi.h" />
+    <ClInclude Include="Kopek.h" />
+    <ClInclude Include="Kus.h" />
     <ClInclude Include="Otomobil.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

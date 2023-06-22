@@ -11,6 +11,7 @@ Otomobil::Otomobil(string _renk, string _model, int _guc, int _my, int kp) {
 // Destructor for class Otomobil
 Otomobil::~Otomobil() {
 	cout << "Destructor cagirildi" << endl;
+	delete pKapiSayisi;
 }
 void Otomobil::ruhsatBilgileri() {
 	cout << "Model: " << Otomobil::model << endl;
